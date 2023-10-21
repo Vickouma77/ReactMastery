@@ -2,4 +2,6 @@
 Learning react in 30 days from scratch.
 
 # Table
+* JavaScript refresher
+* 
 
