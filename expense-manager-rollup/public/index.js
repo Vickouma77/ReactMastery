@@ -148,10 +148,8 @@
 	var reactExports = react.exports;
 	var ReactDOM = /*@__PURE__*/getDefaultExportFromCjs(reactExports);
 
-	class HelloWorld extends ReactDOM.Component {
-	  render() {
-	    return /*#__PURE__*/ReactDOM.createElement("div", null, /*#__PURE__*/ReactDOM.createElement("h1", null, "Hello World!"));
-	  }
+	function HelloWorld() {
+	  return /*#__PURE__*/ReactDOM.createElement("div", null, /*#__PURE__*/ReactDOM.createElement("h1", null, "Hello World !"));
 	}
 
 	ReactDOM.render( /*#__PURE__*/ReactDOM.createElement(ReactDOM.StrictMode, null, /*#__PURE__*/ReactDOM.createElement(HelloWorld, null)), document.getElementById('root'));
