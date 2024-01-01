@@ -20,7 +20,7 @@ CSS styling
   border-bottom: 1px solid #f2f2f2;
 }
 .navbar h1 {
-  color: #f1356d;
+  color: #e64d4d;
 }
 .navbar .links {
   margin-left: auto;
@@ -31,7 +31,7 @@ CSS styling
   padding: 6px;
 }
 .navbar a:hover {
-  color: #f1356d;
+  color: #f2f2;
 }
 .content {
   max-width: 600px;
