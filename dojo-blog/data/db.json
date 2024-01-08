@@ -11,6 +11,12 @@
             "body": "Why do we use it?\nIt is a long established fact that a reader will be destracted",
             "author": "luigi",
             "id": 2
+        },
+        {
+            "title": "My Second Blog",
+            "body": "This is The Second blog of the first user",
+            "author": "jack",
+            "id": 3
         }
     ]
 }
