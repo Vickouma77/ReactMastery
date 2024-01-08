@@ -7,7 +7,7 @@ const Home = () => {
     const [error, setError] = useState(null);
 
     useEffect(() => {
-        fetch('http://localhost:8000/blogs')
+        fetch('https://my-json-server.typicode.com/Vickouma77/demo/blogs')
         .then(res => {
             if(!res.ok){
                 throw Error('could not fetch data for that resource');
