@@ -1,6 +1,6 @@
 import React from 'react';
 import BannerBackground from "../Assets/home-banner-background.png";
-import BannerImage from '../Assets/home-banner-image.png'
+import BannerImage2 from '../Assets/home-banner-image2.png'
 import Navbar from './Navbar';
 import { FiArrowRight } from "react-icons/fi";
 
@@ -15,18 +15,17 @@ const Home = () => {
           </div>
           <div className="home-text-section">
             <h1 className="primary-heading">
-              Your Favourite Food Delivered Hot & Fresh
+             From Kitchen to Your Doorstep
             </h1>
             <p className="primary-text">
-              Healthy switcher chefs do all the prep work, like peeding, chopping
-              & marinating, so you can cook a fresh food.
+              Unleashing Hot & Fresh Delight, your Favorite dish delivered Piping Hot & Bursting with Freshness!
             </p>
             <button className="secondary-button">
               Order Now <FiArrowRight />{" "}
             </button>
           </div>
           <div className="home-image-section">
-            <img src={BannerImage} alt="" />
+            <img src={BannerImage2} alt="" />
           </div>
         </div>
       </div>
@@ -34,3 +33,4 @@ const Home = () => {
   };
  
 export default Home;
+
