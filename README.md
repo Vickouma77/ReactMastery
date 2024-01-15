@@ -11,6 +11,10 @@ ReactMastery is a personal project aimed at providing a comprehensive and hands-
 - [x] Community Support
 - [x] Open Source
 
+## Projects
+- [x] dojo-blog
+- [x] foodie
+
 ## Getting Started
 1. Clone this repository
 2. Install dependencies
@@ -27,6 +31,3 @@ npm start
 3. Commit your changes
 4. Push to the branch
 5. Create a new pull request
-
-## License
-This project is Free to use and modify and can be used for any purpose.
