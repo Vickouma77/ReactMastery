@@ -1,19 +1,10 @@
 # ReactMastery
-Welcome to ReactMastery - My Personal Journey to Mastering ReactJS!
-
-## Overview
-ReactMastery is a personal project aimed at providing a comprehensive and hands-on approach to learning ReactJS.
-
-## Features
-- [x] Structured Learning
-- [x] Hands-on Exercises
-- [x] Project-based Learning
-- [x] Community Support
-- [x] Open Source
+Welcome to ReactMastery - My Personal Journey to Mastering ReactJS! This repository contains all of my ReactJS projects and code snippets. I will be updating this repository as I learn more about ReactJS.
 
 ## Projects
 - [x] dojo-blog
 - [x] foodie
+- [x] portfolio
 
 ## Getting Started
 1. Clone this repository
