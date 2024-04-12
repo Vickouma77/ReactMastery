@@ -21,6 +21,12 @@ npm install
 npm start
 ```
 
+## Built With
+
+- ReactJS
+- JavaScript
+- Tailwind CSS
+
 ## Contributing
 
 1. Fork this repository
